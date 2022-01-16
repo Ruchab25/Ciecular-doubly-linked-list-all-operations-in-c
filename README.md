@@ -1,4 +1,4 @@
-# Ciecular-doubly-linked-list-all-operations-in-c
+# Circular-doubly-linked-list-all-operations-in-c
 Enter choice                                          
 1.Create                            
 2.Display                                             
